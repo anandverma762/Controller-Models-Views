@@ -2,7 +2,7 @@ const path = require('path');
 
 const express = require('express');
 
-const adminroutes = require('../controllers/product');
+const adminroutes = require('../controllers/productcontroller');
 
 
 
